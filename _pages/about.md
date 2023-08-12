@@ -6,7 +6,7 @@ subtitle: Aerospace Engineering | Computer Science | Space Systems Design
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: luke_head_shot.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
