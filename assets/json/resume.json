@@ -26,12 +26,17 @@
     {
       "name": "The Aerospace Corporation",
       "position": "Technical Intern, System of Systems Engineering Office",
-      "startDate": "2023-22-5",
+      "startDate": "2023-05-23",
       "endDate": "",
-      "summary": "Independently implemented various graph analysis algorithms in C++/Qt and worked as part of a software engineering team to incorporate them into an existing space architecture modeling and visualization software tool.\nImplemented probabilistic graph analysis algorithms using Monte Carlo simulation to estimate future performance of satellite networks.\nUsed an agile workflow including using git/bitbucket and JIRA for managing tasks.\nProduced MBSE models of US cloud provider services (AWS, Azure, GCP, OCI, IBM) in SysML using the Cameo Systems Modeler for government customer’s satellite ground enterprise.\nLed discussions with government customer to establish rapport, clarify objectives, and define project scope, goals, and deliverables.\nLed presentations of technical work and models to government customers in a clear and precise manner.\nProduced MBSE SysML activity diagrams for Concept Design Center study analyzing Starship mission concepts for Hubble return and proliferated low Earth orbit constellations.",
-      "summary": "Independently implemented various graph analysis algorithms in C++/Qt and worked as part of a software engineering team to incorporate them into an existing space architecture modeling and visualization software tool.\nImplemented probabilistic graph analysis algorithms using Monte Carlo simulation to estimate future performance of satellite networks.\nUsed an agile workflow including using git/bitbucket and JIRA for managing tasks.\nProduced MBSE models of US cloud provider services (AWS, Azure, GCP, OCI, IBM) in SysML using the Cameo Systems Modeler for government customer’s satellite ground enterprise.\nLed discussions with government customer to establish rapport, clarify objectives, and define project scope, goals, and deliverables.\nLed presentations of technical work and models to government customers in a clear and precise manner.\nProduced MBSE SysML activity diagrams for Concept Design Center study analyzing Starship mission concepts for Hubble return and proliferated low Earth orbit constellations.",
+      "summary": "Summary goes here",
       "highlights": [
-        "Relativity"
+        "Independently implemented various graph analysis algorithms in C++/Qt and worked as part of a software engineering team to incorporate them into an existing space architecture modeling and visualization software tool.",
+        "Implemented probabilistic graph analysis algorithms using Monte Carlo simulation to estimate future performance of satellite networks.",
+        "Used an agile workflow including using git/bitbucket and JIRA for managing tasks.",
+        "Produced MBSE models of US cloud provider services (AWS, Azure, GCP, OCI, IBM) in SysML using the Cameo Systems Modeler for government customer's satellite ground enterprise.",
+        "Led discussions with government customer to establish rapport, clarify objectives, and define project scope, goals, and deliverables.",
+        "Led presentations of technical work and models to government customers in a clear and precise manner.",
+        "Produced MBSE SysML activity diagrams for Concept Design Center study analyzing Starship mission concepts for Hubble return and proliferated low Earth orbit constellations."
       ]
     }
   ],
