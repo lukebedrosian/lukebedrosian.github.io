@@ -1,31 +1,31 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Luke Bedrosian",
+    "label": "Aerospace Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lmbedrosian30@gmail.com",
+    "phone": "(224) 656-9310",
+    "url": "www.lukebedrosian.com",
+    "summary": "I am an aspiring space systems engineer and systems architect, that has applied my skills and knowledge to design, analyze, and optimize various aspects of satellite missions.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1501 Northpoint Ln",
+      "postalCode": "TX 77840",
+      "city": "College Station",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "lukebedrosian",
+        "url": "www.linkedin.com/in/lukebedrosian"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "The Aerospace Corporation",
+      "position": "Technical Intern, System of Systems Engineering Office",
       "url": "https://example.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
