@@ -21,4 +21,10 @@ social: true  # includes social icons at the bottom of the page
 
 Howdy! My name is Luke Bedrosian. I am a rising senior Aerospace Engineering student at Texas A&M, with minors in Computer Science and Mathematics. I am passionate about applying systems engineering principles to solve problems in the early stages of the space mission design process.
 
+Some random things about me
+Hometown: Round Lake, Illinois
+Meyers-Briggs: INTJ
+Favorite Movie: Django Unchained
+Favorite Book: The Great Gatsby
+
 TODO: Finish this bio
