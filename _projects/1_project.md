@@ -9,7 +9,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 As a self-proclaimed philomath, I take pride in my learning endeavors. I have a genuine passion for learning and am interested
-in a variety of subjects. This page summarizes some of my current pursuits.
+in a variety of subjects. This page summarizes some of my current pursuits in the summer of 2023.
 
 **Artificial Intelligence: A Modern Approach**
 
@@ -19,21 +19,21 @@ My interests in artificial intelligence first sprouted whilst working in my rese
 
 **Crucial Conversations**
 
-Another book I'm currently devouring is *Crucial Conversations* by Grenny et al. This work breaks down the art of having crucial conversations, which are conversations when stakes are high, opinions vary, and emotions start to run strong. My mentor at The Aerospace Corporation, where I interned this past summer, recommended this book. The ability to handle crucial conversations - correctly, that is - enables one to achieve greater success in our companies, careers, communities, relationships, personal health, etc. Already, this book flipped my worldview upside-down, and I'm excited to apply what I learn to all aspects of my life.
+Another book I'm currently devouring is *Crucial Conversations* by Grenny et al. This work breaks down the art of having crucial conversations, which are conversations when stakes are high, opinions vary, and emotions start to run strong. My mentor at The Aerospace Corporation, where I am interning this summer, recommended this book. The ability to handle crucial conversations - correctly, that is - enables one to achieve greater success in our companies, careers, communities, relationships, personal health, etc. Already, this book flipped my worldview upside-down, and I'm excited to apply what I learn to all aspects of my life.
 
 **Outlive**
 
-
+I've followed Dr. Peter Attia, MD, for a while now. I first encountered his podcast, "The Drive," in the summer of 2021, and have been an avid listener since. Attia specializes in the practice of longevity, which is maximizing both lifespan (length of life) and healthspan (quality of life). When I learned Dr. Attia was releasing his book, *Outlive,* I immediately preordered it. Thusfar, this book lays the foundation for maximizing one's longevity in a very methodical way. I especially appreciate his understanding of risk and the mathematics (he did an engineering undergrad) behind death and suffering. I recommend this book to anybody that cares about their health and want to make methodical, impactful changes for the better.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ai.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/crucial.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/outlive.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
