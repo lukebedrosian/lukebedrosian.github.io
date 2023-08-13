@@ -81,8 +81,8 @@
   "publications": [],
   "skills": [
     {
-    "category": "Programming Languages",
-    "name": "Python, C++"
+    "name": "Python, C++",
+    "items": "Python, c++"
   },
   {
     "category": "Programming Languages",
