@@ -7,7 +7,11 @@ subtitle: Aerospace Engineering | Computer Science | Space Systems Design
 profile:
   align: right
   image: luke_head_shot.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
+  address: >
+    <p>B.S. Aerospace Engineering | Minors: CS, Math</p>
+    <p>email: lmbedrosian30@gmail.com</p>
+    <p>"Speak softly and carry a big stick, you will go far" - T.R.</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
