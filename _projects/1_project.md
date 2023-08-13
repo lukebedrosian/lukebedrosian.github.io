@@ -8,18 +8,13 @@ category: fun
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As a self-proclaimed philomath, I take pride in my learning endeavors. I have a genuine passion for learning and am interested
+in a variety of subjects. This page summarizes some of my current pursuits.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Artificial Intelligence: A Modern Approach**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I've recently started reading and working through the textbook *Artificial Intelligence: A Modern Approach*, by Stuart Russell and Peter Norvig.
+My interests in artificial intelligence first sprouted whilst working in my research lab, the Systems Engineering, Architecture and Knowledge (SEAK) Lab, under Dr. Daniel Selva Valero, Ph.D. I worked on a project called "COMET," which was sponsored by Lockheed-Martin, where I developed the backend of a cognitive assistant (think Siri) which was designed to find optimal solutions for satellite Electric Power Systems (EPS). While I did not work directly on the AI side of the project and was more focused on the satellite design rules, evaluator function and optimization techniques (MOEA, NSGA-II), I had a great fascination with the concept of AI, and was delighted to see my work being utilized by an intelligent agent. My interest was further sparked after attending the AIAA Intelligent Systems workshop at Texas A&M in the summer of 2022, where researchers from across the country spoke on intelligent systems and their application to the space industry. I intend on gaining a solid foundation in artificial intelligence by digesting this book and applying its teachings to personal projects, my academic research and future work.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
