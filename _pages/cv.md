@@ -1,8 +1,9 @@
 ---
-layout: default
-permalink: /cv/
+layout: cv
+permalink: /resume/
 title: resume
 nav: true
 nav_order: 4
-redirect_to: /assets/pdf/resume.pdf
+cv_pdf: resume.pdf
+description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
 ---
