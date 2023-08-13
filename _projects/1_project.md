@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Learning
+description: A dive into what I'm learning, reading and exploring in my free time.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Me
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
