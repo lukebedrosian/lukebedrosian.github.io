@@ -79,7 +79,20 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+    "category": "Programming Languages",
+    "name": "Python, C++"
+  },
+  {
+    "category": "Programming Languages",
+    "name": "HTML"
+  },
+  {
+    "category": "CAD",
+    "name": "AutoDesk"
+  }
+],
   "languages": [
     {
       "language": "C++",
