@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning
+title: Learning - Summer 2023
 description: A dive into what I'm learning, reading and exploring in my free time.
 img: assets/img/12.jpg
 importance: 1
@@ -15,6 +15,15 @@ in a variety of subjects. This page summarizes some of my current pursuits.
 
 I've recently started reading and working through the textbook *Artificial Intelligence: A Modern Approach*, by Stuart Russell and Peter Norvig.
 My interests in artificial intelligence first sprouted whilst working in my research lab, the Systems Engineering, Architecture and Knowledge (SEAK) Lab, under Dr. Daniel Selva Valero, Ph.D. I worked on a project called "COMET," which was sponsored by Lockheed-Martin, where I developed the backend of a cognitive assistant (think Siri) which was designed to find optimal solutions for satellite Electric Power Systems (EPS). While I did not work directly on the AI side of the project and was more focused on the satellite design rules, evaluator function and optimization techniques (MOEA, NSGA-II), I had a great fascination with the concept of AI, and was delighted to see my work being utilized by an intelligent agent. My interest was further sparked after attending the AIAA Intelligent Systems workshop at Texas A&M in the summer of 2022, where researchers from across the country spoke on intelligent systems and their application to the space industry. I intend on gaining a solid foundation in artificial intelligence by digesting this book and applying its teachings to personal projects, my academic research and future work.
+
+
+**Crucial Conversations**
+
+Another book I'm currently devouring is *Crucial Conversations* by Grenny et al. This work breaks down the art of having crucial conversations, which are conversations when stakes are high, opinions vary, and emotions start to run strong. My mentor at The Aerospace Corporation, where I interned this past summer, recommended this book. The ability to handle crucial conversations - correctly, that is - enables one to achieve greater success in our companies, careers, communities, relationships, personal health, etc. Already, this book flipped my worldview upside-down, and I'm excited to apply what I learn to all aspects of my life.
+
+**Outlive**
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
