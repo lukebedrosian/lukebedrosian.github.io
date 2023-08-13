@@ -9,9 +9,7 @@ profile:
   image: luke_head_shot.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Interests: Space Systems, Software </p>
-    <p>Development, Systems Architecting,</p>
-    <p>System of Systems, AI/ML</p>
+    <p>Interests: Space Systems, Software Development, Systems Architecting, System of Systems, AI/ML</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
