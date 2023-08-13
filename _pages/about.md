@@ -9,9 +9,8 @@ profile:
   image: luke_head_shot.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>B.S. Aerospace Engineering | Minors: CS, Math</p>
-    <p>email: lmbedrosian30@gmail.com</p>
-    <p>"Speak softly and carry a big stick, you will go far" - T.R.</p>
+    <p>B.S. Aerospace Engineering</p>
+    <p>Minors: CS, Math</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
