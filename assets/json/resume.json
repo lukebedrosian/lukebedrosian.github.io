@@ -57,7 +57,7 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Texas A&M University",
+      "institution": "Texas A&M University, College Station, Texas, USA",
       "url": "https://catalog.tamu.edu/undergraduate/engineering/aerospace/bs/#text",
       "area": "B.S. Aerospace Engineering | Minors: Computer Science, Mathematics",
       "studyType": "Bachelor of Science",
@@ -82,12 +82,40 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "C++",
+      "fluency": "Proficient"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Python",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Java",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "C",
+      "fluency": "Novice"
+    },
+    {
+      "language": "Jess",
+      "fluency": "Novice"
+    },
+    {
+      "language": "Haskell",
+      "fluency": "Novice"
+    },
+    {
+      "language": "Mathematica",
+      "fluency": "Novice"
+    },
+    {
+      "language": "Matlab",
+      "fluency": "Novice"
+    },
+    {
+      "language": "x86 Assembly",
+      "fluency": "Novice"
     }
   ],
   "interests": [],
