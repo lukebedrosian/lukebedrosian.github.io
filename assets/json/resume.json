@@ -25,10 +25,10 @@
   "work": [
     {
       "name": "The Aerospace Corporation",
-      "position": "Technical Intern, System of Systems Engineering Office",
-      "startDate": "2023-05-23",
+      "position": "Technical Intern",
+      "startDate": "2023-5-23",
       "endDate": "",
-      "summary": "Summary goes here",
+      "summary": "System of Systems Engineering Office",
       "highlights": [
         "Independently implemented various graph analysis algorithms in C++/Qt and worked as part of a software engineering team to incorporate them into an existing space architecture modeling and visualization software tool.",
         "Implemented probabilistic graph analysis algorithms using Monte Carlo simulation to estimate future performance of satellite networks.",
@@ -38,6 +38,18 @@
         "Led presentations of technical work and models to government customers in a clear and precise manner.",
         "Produced MBSE SysML activity diagrams for Concept Design Center study analyzing Starship mission concepts for Hubble return and proliferated low Earth orbit constellations."
       ]
+    },
+    {
+      "name": "Systems Engineering, Architecture and Knowledge Lab",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2023-12-12",
+      "endDate": "",
+      "summary": "PI: Daniel Selva Valero, Texas A&M University",
+      "highlights": [
+        "Developed a software architecture (Python) from scratch to take in a set of satellite design variables and parameters, size the satellite using industry-accepted heuristics and theoretical equations, and output the satellite design along with a “performance score” to be used as an objective function as part of a Lockheed-Martin funded cognitive assistant tool.",
+        "Implemented a multi-objective evolutionary algorithm (NSGA-II) using this architecture to explore the pareto front in the electric power system (EPS) design trade space.",
+        "Developed a multi-fidelity satellite simulation tool (Python, Ruby) with hardware-in-the-loop under Undergraduate Summer Research Grant.",
+        "Developed rules-based design algorithms (Java/JESS) using empirical relationships to size electric propulsion systems for satellites during early architecting phase."      ]
     }
   ],
   "volunteer": [],
