@@ -4,7 +4,7 @@ title: What I'm Doing
 permalink: /projects/
 description: A collection of what I'm doing/intersted in.
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
