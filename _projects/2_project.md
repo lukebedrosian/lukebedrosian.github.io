@@ -64,6 +64,10 @@ I hiked Great Falls Park on the edge of the Potomac River with some fellow inter
     </div>
 </div>
 
+<div class="caption">
+    Fellow interns and I after our hike (left/top), Me on top of a large rock (right/bottom)
+</div>
+
 I saw fireworks on the national mall for the Fourth of July with my girlfriend, Leah.
 
 <div class="row justify-content-sm-center">
@@ -73,6 +77,10 @@ I saw fireworks on the national mall for the Fourth of July with my girlfriend, 
     <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/july4fire.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+<div class="caption">
+    Leah and I before the fireworks (left/top), Fireworks with Washington Monument (right/bottom)
 </div>
 
 Then, Leah and I took a weekend trip to hike Harpers Ferry and see my brother, [Matthew](www.mjbass.net), play bass in his band in Harrisburg, PA.
@@ -89,6 +97,10 @@ Then, Leah and I took a weekend trip to hike Harpers Ferry and see my brother, [
     </div>
 </div>
 
+<div class="caption">
+    View of Harper's Ferry from overlook (left/top), Leah and I at overlook (middle), View of Harper's Ferry from bridge (right/bottom)
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/thew1.jpg" title="Matthew James" class="img-fluid rounded z-depth-1" %}
@@ -101,6 +113,10 @@ Then, Leah and I took a weekend trip to hike Harpers Ferry and see my brother, [
     </div>
 </div>
 
+<div class="caption">
+    Matthew and I after the show (left/top and right/bottom), Matthew solo (middle)
+</div>
+
 Leah and I channeled our inner cowboy/girl and went trail riding.
 
 <div class="row justify-content-sm-center">
@@ -110,6 +126,10 @@ Leah and I channeled our inner cowboy/girl and went trail riding.
     <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/horse2.jpg" title="Horse" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+<div class="caption">
+    Me in the saddle (left/top), Leah and I riding on the trail (right/bottom)
 </div>
 
 And went to plenty of wineries this summer.
@@ -126,6 +146,10 @@ And went to plenty of wineries this summer.
     </div>
 </div>
 
+<div class="caption">
+    Leah and I at Bull Run Winery (left/top), Me at Old Farm Winery (middle), Leah at Flying Ace Distillery & Brewery (right/bottom)
+</div>
+
 My work, The Aerospace Corporation, sent the interns to our headquarters in El Segundo, California (right next to the LA Air Force Base) to perform a Concept Design Center study. It was an amazing experience exploring the campus, swimming in the ocean after work each night, and going out into the Mojave Desert to launch the rockets we made.
 
 <div class="row">
@@ -133,11 +157,15 @@ My work, The Aerospace Corporation, sent the interns to our headquarters in El S
         {% include figure.html path="assets/img/cali_roomies.jpg" title="Roomies" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/calie_george.jpg" title="George" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cali_george.jpg" title="George" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/cali_sunset.jpg" title="Sunset" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+<div class="caption">
+    Meet up with the college roomies in Newport (left/top), George and I at Manhattan Beach after work (middle), Sunset at Manhattan Beach (right/bottom)
 </div>
 
 <div class="row">
@@ -152,6 +180,10 @@ My work, The Aerospace Corporation, sent the interns to our headquarters in El S
     </div>
 </div>
 
+<div class="caption">
+    Me with my rocket before launch, during setup, and after landing.
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/rocket.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
@@ -162,4 +194,8 @@ My work, The Aerospace Corporation, sent the interns to our headquarters in El S
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/desert.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
+</div>
+
+<div class="caption">
+    My rocket launching (left/top), Slo-mo of experimental rocket (middle), Views of the desert (right/bottom)
 </div>
