@@ -16,7 +16,7 @@ This summer, I've had the pleasure of interning at The Aerospace Corporation in 
         {% include figure.html path="assets/img/virginia_lovers.jpg" title="Virginia is for Lovers" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mall.jpg" title="Capitol Building" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/mall.JPG" title="Capitol Building" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/apotheosis.jpg" title="The Apotheosis of Washington" class="img-fluid rounded z-depth-1" %}
