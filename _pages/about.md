@@ -61,27 +61,37 @@ Drop downs with additional information about Luke.
 
 {% details Contact information %}
 email: luke@lukebedrosian.com
+
 linkedin: [lukebedrosian](www.linkedin.com/in/lukebedrosian).
 {% enddetails %}
 
 {% details Quick Bio %}
 Hometown: Round Lake, Illinois
+
 School: Texas A&M University
+
 Major: B.S. Aerospace Engineering
+
 Minors: Computer Science, Mathematics
 {% enddetails %}
 
 {% details Skills and Interests %}
 Skills: Python, C++, Java, Jess, Wolfram Mathematica, Autodesk Inventor, Solidworks, NX, GitHub, MOEA, Haskell, SysML, Qt, Cameo Systems Modeler
+
 Interests: Space Systems, Software Development, Systems Architecting, System of Systems, AI/ML, Optimization, Modeling
 {% enddetails %}
 
 {% details Fun Facts %}
 Meyers-Briggs: INTJ
+
 Favorite Book: *The Great Gatsby* by F. Scott Fitzgerald
+
 Favorite Artist: Edward Hopper
+
 Favorite Muscial Artist: Bob Marley
+
 Favorite Sports Teams: Chicago Bears, Bulls, Blackhawks, Cubs
+
 Favorite Movie: Django: Unchained
 {% enddetails %}
 
