@@ -8,7 +8,7 @@ middle_name: M.
 last_name: Bedrosian
 email: lmbedrosian30@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Welcome to the world of Luke.
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: luke, bedrosian, aerospace, systems, software  # add your own keywords or leave empty
@@ -18,7 +18,7 @@ icon: space_cowboy.jpg  # the emoji used as the favicon (alternatively, provide 
 
 url: https://lukebedrosian.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: lukebedrosian # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -87,7 +87,7 @@ osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: www.aerospace.org
+work_url: https://aerospace.org/
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
@@ -105,7 +105,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The quickest and easiest form of contact is via email at lmbedrosian30@gmail.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -122,7 +122,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Life of Luke # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
 blog_description: A snapshot of how I view the world.
 permalink: /blog/:year/:title/
 
