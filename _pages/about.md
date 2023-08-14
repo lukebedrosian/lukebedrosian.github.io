@@ -92,7 +92,7 @@ Favorite Muscial Artist: Bob Marley
 
 Favorite Sports Teams: Chicago Bears, Bulls, Blackhawks, Cubs
 
-*Favorite Movie: Django: Unchained*
+Favorite Movie: *Django: Unchained*
 {% enddetails %}
 
 ***

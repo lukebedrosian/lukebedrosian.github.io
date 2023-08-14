@@ -122,8 +122,44 @@ And went to plenty of wineries this summer.
         {% include figure.html path="assets/img/wine2.jpg" title="Winery" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wine3.jpg" title="Winery" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wine3.JPG" title="Winery" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-My work, The Aerospace Corporation, sent the interns to our headquarters in El Segundo, California (right next to the LA Air Force Base).
+My work, The Aerospace Corporation, sent the interns to our headquarters in El Segundo, California (right next to the LA Air Force Base) to perform a Concept Design Center study. It was an amazing experience exploring the campus, swimming in the ocean after work each night, and going out into the Mojave Desert to launch the rockets we made.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cali_roomies.jpg" title="Roomies" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/calie_george.jpg" title="George" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cali_sunset.jpg" title="Sunset" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cali_rocket1.jpg" title="Rocket" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cali_rocket2.jpg" title="Rocket" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cali_rocket3.jpg" title="Rocket" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/rocket.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/slomo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/desert.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+</div>
