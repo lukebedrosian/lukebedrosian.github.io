@@ -23,6 +23,7 @@ Midway through my sophomore year of college, I decided I needed to push myself o
 
 **Friends**
 
+To-Do
 
 **Philanthropy**
 
@@ -56,5 +57,5 @@ During all of these fall activities, RJ and I began concocting a plan to entirel
 
 **President**
 
-
+To-Do
 
