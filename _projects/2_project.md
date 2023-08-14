@@ -29,8 +29,48 @@ This summer, I've had the pleasure of interning at The Aerospace Corporation in 
         {% include figure.html path="assets/img/capitol_building.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+After the long drive from College Station, TX to Fairfax County, VA, I spent my first free weekend exploring the U.S. capitol.
+
 <div class="caption">
     A selfie in front of the US Capitol Building
 </div>
 
-To-Do
+One of my bestfriends, Samantha, visited me and we explored the area further.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sam_1.jpg" title="Sam1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sam_2.JPG" title="Sam2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sam_3.jpg" title="Sam3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Samantha and I at a brewery, on the national mall, and at the Jefferson Memorial.
+</div>
+
+I hiked Great Falls Park on the edge of the Potomac River with some fellow interns.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/great_falls1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/great_falls.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+I saw fireworks on the national mall for the Fourth of July with my girlfriend, Leah.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/july4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/july4fire.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
