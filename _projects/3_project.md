@@ -10,16 +10,13 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 **Paradigm: Forging Model Men of Aggieland**
 
-
+Midway through my sophomore year of college, I decided I needed to push myself outside of personal and academic pursuits. I was involved in numerous aerospace-related organizations, including research, but I was lacking involvement in other areas of the college experience, so I decided to join Paradigm - a service, social and philanthropy men's organization. This choice has been the greatest decision I've made in college; it's where I've met my closest friends, learned the most about myself, grown socially, given back to my community and grown as a leader. I'm unable to capture all of my experiences and the benefits of joining this organization, but here are a few of the highlights.
 
 **Friends**
 
 
-
-
 **Philanthropy**
 
-Another book I'm currently devouring is *Crucial Conversations* by Grenny et al. This work breaks down the art of having crucial conversations, which are conversations when stakes are high, opinions vary, and emotions start to run strong. My mentor at The Aerospace Corporation, where I am interning this summer, recommended this book. The ability to handle crucial conversations - correctly, that is - enables one to achieve greater success in our companies, careers, communities, relationships, personal health, etc. Already, this book flipped my worldview upside-down, and I'm excited to apply what I learn to all aspects of my life.
 
 **President**
 
@@ -27,9 +24,9 @@ Another book I'm currently devouring is *Crucial Conversations* by Grenny et al.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/dimes.jpg" title="Semi-Formal" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dimes.jpg" title="Semi" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The dimes at semi-formal 2022.
+    The Dimes at semi-formal 2022.
 </div>
