@@ -53,12 +53,14 @@ My academic year includes research assistant responsibilities at the Systems Eng
 Thank you for visiting my space on the web. I'm excited to continue this journey of discovery, growth, and innovation, and I invite you to join me every step of the way.
 
 
+***
+
+## Details boxes
+
 Details boxes are collapsible boxes which hide additional information from the user. They can be added with the `details` liquid tag:
 
-{% Fun Facts %}
-Test fun fact.
-Another
-
-Another
+{% details Click here to know more %}
+Additional details, where math $$ 2x - 1 $$ and `code` is rendered correctly.
 {% enddetails %}
 
+***
