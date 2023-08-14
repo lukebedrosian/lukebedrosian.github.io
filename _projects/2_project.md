@@ -100,3 +100,30 @@ Then, Leah and I took a weekend trip to hike Harpers Ferry and see my brother, [
         {% include figure.html path="assets/img/thew3.jpg" title="Mr Head" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+Leah and I channeled our inner cowboy/girl and went trail riding.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/horse1.jpg" title="Horse" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/horse2.jpg" title="Horse" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+And went to plenty of wineries this summer.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wine1.jpg" title="Winery" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wine2.jpg" title="Winery" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wine3.jpg" title="Winery" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+My work, The Aerospace Corporation, sent the interns to our headquarters in El Segundo, California (right next to the LA Air Force Base).
