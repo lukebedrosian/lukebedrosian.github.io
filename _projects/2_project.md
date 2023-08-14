@@ -56,10 +56,10 @@ One of my bestfriends, Samantha, visited me and we explored the area further.
 I hiked Great Falls Park on the edge of the Potomac River with some fellow interns.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/great_falls2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/great_falls1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -67,10 +67,36 @@ I hiked Great Falls Park on the edge of the Potomac River with some fellow inter
 I saw fireworks on the national mall for the Fourth of July with my girlfriend, Leah.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/july4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/july4fire.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+Then, Leah and I took a weekend trip to hike Harpers Ferry and see my brother, [Matthew](www.mjbass.net), play bass in his band in Harrisburg, PA.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ferry1.jpg" title="Harpers Ferry" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ferry2.jpg" title="Harpers Ferry" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ferry3.jpg" title="Harpers Ferry" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/thew1.jpg" title="Matthew James" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IMG_0635.MOV" title="Harpers Ferry" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/thew3.jpg" title="Mr Head" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
