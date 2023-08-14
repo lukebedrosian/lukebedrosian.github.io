@@ -38,7 +38,7 @@ During all of these fall activities, RJ and I began concocting a plan to entirel
         {% include figure.html path="assets/img/rnr_lulu.jpg" title="Lulu" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/night.jpg" title="Crowds at Night" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rnr_night.jpg" title="Crowds at Night" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -47,7 +47,7 @@ During all of these fall activities, RJ and I began concocting a plan to entirel
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/crowd.jpg" title="Crowds" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rnr_crowd.jpg" title="Crowds" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
