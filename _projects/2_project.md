@@ -9,6 +9,7 @@ category: fun
 
 This summer, I've had the pleasure of interning at The Aerospace Corporation in Chantilly, Virginia. This is my first time on the east coast (minus Florida), and I've had a wonderful time exploring. Here are some of my travels.
 
+After the long drive from College Station, TX to Fairfax County, VA, I spent my first free weekend exploring the U.S. capitol.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -29,8 +30,6 @@ This summer, I've had the pleasure of interning at The Aerospace Corporation in 
         {% include figure.html path="assets/img/capitol_building.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-After the long drive from College Station, TX to Fairfax County, VA, I spent my first free weekend exploring the U.S. capitol.
 
 <div class="caption">
     A selfie in front of the US Capitol Building
@@ -165,7 +164,7 @@ My work, The Aerospace Corporation, sent the interns to our headquarters in El S
 </div>
 
 <div class="caption">
-    Meet up with the college roomies in Newport (left/top), George and I at Manhattan Beach after work (middle), Sunset at Manhattan Beach (right/bottom)
+    Met up with the college roomies in Newport (left/top), George and I at Manhattan Beach after work (middle), Sunset at Manhattan Beach (right/bottom)
 </div>
 
 <div class="row">
@@ -197,5 +196,76 @@ My work, The Aerospace Corporation, sent the interns to our headquarters in El S
 </div>
 
 <div class="caption">
-    My rocket launching (left/top), Slo-mo of experimental rocket (middle), Views of the desert (right/bottom)
+    My rocket launching in the Mojave Desert (left/top), Slo-mo of experimental rocket (middle), Views of the desert (right/bottom)
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cali_voyager.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    The interns post-rocket launch at the Voyager Restaurant, named after the Rutan Voyager
+</div>
+
+After the Cali trip, we had National Intern Day, where The Aerospace Corporation took us on a Capitol Tour and a House Gallery pass.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/nid_all.JPEG" title="Rocket" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/nid_besties.jpg" title="Rocket" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    All of the aerospace interns (left), some of my intern besties (right).
+</div>
+
+Leah and I then hiked Old Rag Mountain in the Blue Ridge mountain range.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/old_rag1.jpg" title="Old Rag" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/old_rag2.jpg" title="Old Rag" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/old_rag3.jpg" title="Old Rag" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    An assortment of pictures of me hiking Old Rag.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/bear.jpg" title="Leah Bear Pie" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    I saw a bear - a Leah Bear
+</div>
+
+And then Leah and I got to see Matthew play again! This time in Leesburg, Virginia
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/thew4.jpg" title="Matthew James" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/thew5.jpg" title="Matthew James" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/thew6.jpg" title="Mr Head" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Matthew with the Roots of Creation playing Grateful Dub at the TallyHo Theatre in Leesburg, VA
 </div>
