@@ -5,7 +5,6 @@ description: A look at my experience in my men's org, Paradigm.
 img: assets/img/rnr_rj.jpg
 importance: 1
 category: fun
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 **Paradigm: Forging Model Men of Aggieland**

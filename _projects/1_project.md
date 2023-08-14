@@ -5,7 +5,6 @@ description: A dive into what I'm learning, reading and exploring in my free tim
 img: assets/img/books.jpg
 importance: 1
 category: fun
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 As a self-proclaimed philomath, I take pride in my learning endeavors. I have a genuine passion for learning and am interested

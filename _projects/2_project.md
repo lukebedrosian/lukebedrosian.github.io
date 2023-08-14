@@ -5,7 +5,6 @@ description: A look into what I've explored during the summer of 2023.
 img: assets/img/elsegundo.jpg
 importance: 1
 category: fun
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 This summer, I've had the pleasure of interning at The Aerospace Corporation in Chantilly, Virginia. This is my first time on the east coast (minus Florida), and I've had a wonderful time exploring. Here are some of my travels.
