@@ -94,7 +94,7 @@ Then, Leah and I took a weekend trip to hike Harpers Ferry and see my brother, [
         {% include figure.html path="assets/img/thew1.jpg" title="Matthew James" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/thew2.mp4" title="Matthew Solo" class="img-fluid rounded z-depth-1" %}
+        {% include video.html path="assets/video/thew2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/thew3.jpg" title="Mr Head" class="img-fluid rounded z-depth-1" %}
