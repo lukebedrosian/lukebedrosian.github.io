@@ -43,7 +43,7 @@ One of my bestfriends, Samantha, visited me and we explored the area further.
         {% include figure.html path="assets/img/sam_1.jpg" title="Sam1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sam_2.JPG" title="Sam2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sam_2.jpg" title="Sam2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/sam_3.jpg" title="Sam3" class="img-fluid rounded z-depth-1" %}
@@ -57,20 +57,20 @@ I hiked Great Falls Park on the edge of the Potomac River with some fellow inter
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/great_falls1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/great_falls2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/great_falls.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/great_falls1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 I saw fireworks on the national mall for the Fourth of July with my girlfriend, Leah.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/july4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/july4fire.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
