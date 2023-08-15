@@ -9,7 +9,7 @@ category: experience
 
 **Paradigm: Forging Model Men of Aggieland**
 
-Midway through my sophomore year of college, I decided I needed to push myself outside of personal and academic pursuits. I was involved in numerous aerospace-related organizations, including research, but I was lacking involvement in other areas of the college experience, so I decided to join Paradigm - a service, social and philanthropy men's organization. This choice has been the greatest decision I've made in college; it's where I've met my closest friends, learned the most about myself, grown socially, given back to my community and grown as a leader. I'm unable to capture all of my experiences and the benefits of joining this organization, but here are a few of the highlights.
+Midway through my sophomore year of college, I decided I needed to push myself outside of personal and academic pursuits. I was involved in numerous aerospace-related organizations, including research, but I was lacking involvement in other areas of the college experience, so I decided to join [Paradigm](https://www.paradigm-tamu.org) - a service, social and philanthropy men's organization. This choice has been the greatest decision I've made in college; it's where I've met my closest friends, learned the most about myself, grown socially, given back to my community and grown as a leader. I'm unable to capture all of my experiences and the benefits of joining this organization, but here are a few of the highlights.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -74,7 +74,7 @@ During all of these fall activities, RJ and I began concocting a plan to entirel
 
 **President**
 
-Running for the presidency of our Paradigm was a decision fueled by a deep desire to challenge myself and expand my horizons. I saw this opportunity as a platform to put my leadership skills to the test, to engage in the art of effective communication and dialogue, and to refine my ability to inspire and guide a group towards a common vision. But most importantly, I felt that I was in a position to elevate our organization to new heights, fostering an environment of excellence and innovation. The pages of the Edmund Morris trilogy on Theodore Roosevelt provided me with a wellspring of inspiration, showcasing the transformative power of strong leadership and the impact it can have on an entire nation. I am currently undertaking the beginning of my presidency and am excited to see where our organization goes.
+Running for the presidency of Paradigm was a decision fueled by a deep desire to challenge myself and expand my horizons. I saw this opportunity as a platform to put my leadership skills to the test, to engage in the art of effective communication and dialogue, and to refine my ability to inspire and guide a group towards a common vision. But most importantly, I felt that I was in a position to elevate our organization to new heights, fostering an environment of excellence and innovation. The pages of the Edmund Morris trilogy on Theodore Roosevelt provided me with a wellspring of inspiration, showcasing the transformative power of strong leadership and the impact it can have on an entire nation. I am currently undertaking the beginning of my presidency and am excited to see where our organization goes.
 
 > "Speak softly and carry a big stick; you will go far." - Theodore Roosevelt
 

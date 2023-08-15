@@ -38,3 +38,5 @@ I've followed Dr. Peter Attia, MD, for a while now. I first encountered his podc
 <div class="caption">
     Book covers of the three books discussed above.
 </div>
+
+To see more of the books I've read, you can follow me on [goodreads](https://www.goodreads.com/user/show/46275524-luke-bedrosian).

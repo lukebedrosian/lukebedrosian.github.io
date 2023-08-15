@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 **About Luke Bedrosian: Exploring the Cosmos Through Engineering and Creativity**
 
-Hello! I'm Luke Bedrosian, and I'm thrilled to welcome you to my personal corner of the digital universe. As a Senior Aerospace Engineering student at the prestigious Texas A&M University, I've embarked on a journey fueled by curiosity, innovation, and a drive to unravel the complexities of our universe.
+Hello! I'm Luke Bedrosian, and I am thrilled to welcome you to my personal corner of the digital universe. As a Senior Aerospace Engineering student at Texas A&M University, I've embarked on a journey fueled by curiosity, innovation, and a drive to unravel the complexities of our universe.
 
 **Education and Passion:**
 
