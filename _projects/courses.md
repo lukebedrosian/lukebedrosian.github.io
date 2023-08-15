@@ -7,6 +7,8 @@ importance: 2
 category: learning
 ---
 
+The following are college-level courses taken at Texas A&M University. Courses currently enrolled in are *italicized*.
+
 ## Aerospace Engineering
 
 | Course        | Description           | Semester Taken  |
@@ -30,3 +32,68 @@ category: learning
 | AERO 310 |   Aerospace Dynamics   |    Fall 2022 |
 | AERO 321 | Dynamics of Aerospace Vehicles      |    Spring 2023 |
 | AERO 351 | Aerothermodynamics and Propulsion      |    Spring 2023 |
+
+## Computer Science
+| Course        | Description           | Semester Taken  |
+| ------------- |-------------| -----|
+| CSCE 121     | Introduction to Program Design and Concepts |   Fall 2021 |
+| CSCE 221      | Data Structures and Algorithms     |   Spring 2022 |
+| CSCE 222      | Discrete Structures for Computing     |   Spring 2022 |
+| CSCE 312      | Computer Organization     |   Fall 2022 |
+| CSCE 314      | Programming Languages     |   Spring 2023 |
+
+## Mathematics
+| Course        | Description           | Semester Taken  |
+| ------------- |-------------| -----|
+| MATH 308     | Differential Equations |   Fall 2020 |
+| MATH 311      | Topics in Applied Mathematics (Linear Algebra)  |   Spring 2021 |
+
+## General Engineering
+| Course        | Description           | Semester Taken  |
+| ------------- |-------------| -----|
+| CHEM 107     | General Chemistry for Engineers |   Fall 2020 |
+| CHEM 117      | Chemistry Lab     |   Fall 2020 |
+| CLEN 181      | Engineering Honors Seminar     |   Fall 2020 |
+| ENGR 102      | Engineering Lab I - Computation     |   Fall 2020 |
+| ENGR 262      | Engineering Entrepreneurship     |   Fall 2020 |
+| PHYS 206      | Physics I - Mechanics     |   Fall 2020 |
+| PHYS 207      | Physics II - E&M     |   Spring 2021 |
+| PHYS 216      | Experimental Physics and Engineering Lab II - Mechanics     |   Fall 2020 |
+| PHYS 217      | Experimental Physics and Engineering Lab III - Electricity and Magnetism     |   Fall 2021 |
+| ECEN 215      | Principles of Electrical Engineering     |   Fall 2022 |
+
+## Miscellaneous
+| Course        | Description           | Semester Taken  |
+| ------------- |-------------| -----|
+| COMM 205     | Public Speaking for Technical Majors |   Spring 2021 |
+| COMM 257      | Communication, Religion, and the Arts     |   Fall 2020 |
+| POLS 207      | State Government (Texas)     |   Fall 2020 |
+| ACCT 209      | Survey of Accounting Principles     |   Fall 2020 |
+
+## Transfer Courses
+| Course        | Description           | Transferred From  |
+| ------------- |-------------| -----|
+| MATH 151     | Calculus I |   AP Calc BC |
+| MATH 152      | Calculus II     |   AP Calc BC |
+| MATH 253      | Calculus III     |   University of Illinois |
+| ENGL 104      | Composition and Rhetoric     |   AP Lang |
+| HIST 104     | World History     |   AP World History |
+| HIST 105     | US History I     |   AP US History |
+| HIST 106     | US History II     |   AP US History |
+| POLS 206      | American National Government     |   AP Government |
+| PSYC 107      | Intro to Psychology     |   AP Psychology |
+
+
+{% details More Course Information %}
+[Texas A&M Aerospace Course Catalog](https://catalog.tamu.edu/undergraduate/course-descriptions/aero/)
+
+[Texas A&M Computer Science Course Catalog](https://catalog.tamu.edu/undergraduate/course-descriptions/csce/)
+
+[Texas A&M Math Catalog](https://catalog.tamu.edu/undergraduate/course-descriptions/math/)
+
+[Texas A&M BS AERO Degree Plan](https://catalog.tamu.edu/undergraduate/engineering/aerospace/bs/#programrequirementstext)
+
+[Texas A&M CS Minor Degree Plan](https://catalog.tamu.edu/undergraduate/engineering/computer-science/minor/#programrequirementstext)
+
+[Texas A&M MATH Minor Degree Plan](https://catalog.tamu.edu/undergraduate/arts-and-sciences/mathematics/minor/#programrequirementstext)
+{% enddetails %}
