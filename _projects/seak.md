@@ -7,5 +7,4 @@ importance: 2
 category: experience
 ---
 
-Sorry! I have not yet gotten to filling out this page. It should be done shortly!
-
+As a freshman seeking experience in meaningful aerospace work, I was told by a professor that I should seek an undergraduate research position. I hadn't entertained that idea prior to college, but I figured I'd look at different aerospace professors and what their work was. 
