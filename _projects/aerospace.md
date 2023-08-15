@@ -8,7 +8,7 @@ category: experience
 ---
 
 
-I joined The Aerospace Corporation as an intern in May 2023. While searching for roles similar to my work in a research lab, I came across the position of System of Systems Engineer almost serendipitously. Although I wasn't familiar with the term "System of Systems" at the time, the job description seemed like a great fit for my background, so I decided to give it a try.
+I joined The Aerospace Corporation as an intern in May 2023. While searching for roles similar to my work in my [research lab](https://www.lukebedrosian.com/projects/seak/), I came across the position of System of Systems Engineer almost serendipitously. Although I wasn't familiar with the term "System of Systems" at the time, the job description seemed like a great fit for my background, so I decided to give it a try.
 
 Throughout the summer internship, I had an amazing experience that exceeded my expectations. I had the opportunity to learn a lot about various areas, including system of systems concepts, enterprise engineering, software development, and SysML modeling. These new skills and insights have been incredibly valuable for my professional development.
 
@@ -18,13 +18,13 @@ Throughout the summer internship, I had an amazing experience that exceeded my e
 
 ## Portfolio Decision Support Tool
 
-The main project I worked on was software development for the Portfolio Decision Support Tool. This tool integrates and visualizes multi-faceted architectural data in support of the acquisition decision making process. Here are a few of my contributions:
+The main project I worked on was software development for the [Portfolio Decision Support Tool](https://arc.aiaa.org/doi/epdf/10.2514/6.2015-4420). This tool integrates and visualizes multi-faceted architectural data in support of the acquisition decision making process. Here are a few of my contributions:
 
 * Independently implemented various graph analysis algorithms in C++/Qt and worked as part of a software engineering team to incorporate them into an existing space architecture modeling and visualization software tool.
 * Implemented probabilistic graph analysis algorithms using Monte Carlo simulation to estimate future performance of satellite networks.
 * Used an agile workflow including using git/bitbucket and JIRA for managing tasks.
 
-A few of the graph algorithms implemented were Breadth-First Search, Depth-First Search, Dijkstra, and the Ford-Fulkerson Algorithm. Due to material sensitivity, I am unable to present the GUI or any other work regarding PDST.
+A few of the graph algorithms implemented were Breadth-First Search, Depth-First Search, Dijkstra, and the Ford-Fulkerson Algorithm. These were all implemented using a custom graph class unique to PDST's generic data structures. Due to material sensitivity, I am unable to present the GUI or any other work regarding PDST.
 
 ## Cloud Service Providers
 
@@ -36,7 +36,7 @@ During the internship, Aerospace flew all of the interns to its headquarters in 
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/nid_all.JPG" title="NID" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/nid_all.JPEG" title="NID" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/interns.JPG" title="Interns with Steve" class="img-fluid rounded z-depth-1" %}
@@ -44,5 +44,5 @@ During the internship, Aerospace flew all of the interns to its headquarters in 
 </div>
 
 <div class="caption">
-    The Chantilly, VA interns at the nation's capitol on National Intern Day (left/top), Chantilly interns with Aerospace CEO, Steve Isakowicz (right/bottom)
+    The Chantilly, VA interns at the nation's capitol on National Intern Day (left/top), Chantilly interns with Aerospace CEO, Steve Isakowitz(right/bottom)
 </div>
