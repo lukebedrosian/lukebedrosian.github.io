@@ -7,7 +7,7 @@ importance: 1
 category: experience
 ---
 
-As a freshman seeking practical exposure in the aerospace field, I received advice from a professor about the benefits of pursuing an undergraduate research role. Until college, I hadn't really considered this option, but I decided to explore different aerospace professors and their areas of work. Given my strong interest in space-related activities and my dream of becoming an astronaut, I came across Dr. Daniel Selva's [Systems Engineering, Architecture and Knowledge Lab](https://www.selva-research.com/). The area of satellite technology intrigued me, leading me to join this research group.
+As a freshman seeking practical exposure in the aerospace field, I received advice from a professor about the benefits of pursuing an undergraduate [research](https://scholar.google.com/citations?user=NCYtE-8AAAAJ&hl=en&oi=ao) role. Until college, I hadn't really considered this option, but I decided to explore different aerospace professors and their areas of work. Given my strong interest in space-related activities and my dream of becoming an astronaut, I came across Dr. Daniel Selva's [Systems Engineering, Architecture and Knowledge Lab](https://www.selva-research.com/). The area of satellite technology intrigued me, leading me to join this research group.
 
 Unbeknownst to me at the time, this experience would introduce me to a new aspect of the aerospace industry – the field of systems design and architecture. While stumbling upon this field might have been a matter of chance, my fascination with space systems design and architecture has grown significantly. As a result, I am now committed to building a career in this field.
 
