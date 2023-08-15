@@ -33,6 +33,8 @@ The following are college-level courses taken at Texas A&M University. Courses c
 | AERO 321 | Dynamics of Aerospace Vehicles      |    Spring 2023 |
 | AERO 351 | Aerothermodynamics and Propulsion      |    Spring 2023 |
 
+
+
 ## Computer Science
 
 | Course        | Description           | Semester Taken  |
@@ -43,12 +45,16 @@ The following are college-level courses taken at Texas A&M University. Courses c
 | CSCE 312      | Computer Organization     |   Fall 2022 |
 | CSCE 314      | Programming Languages     |   Spring 2023 |
 
+
+
 ## Mathematics
 
 | Course        | Description           | Semester Taken  |
 | ------------- |-------------| -----|
 | MATH 308     | Differential Equations |   Fall 2020 |
 | MATH 311      | Topics in Applied Mathematics (Linear Algebra)  |   Spring 2021 |
+
+
 
 ## General Engineering
 
@@ -65,6 +71,8 @@ The following are college-level courses taken at Texas A&M University. Courses c
 | PHYS 217      | Experimental Physics and Engineering Lab III - Electricity and Magnetism     |   Fall 2021 |
 | ECEN 215      | Principles of Electrical Engineering     |   Fall 2022 |
 
+
+
 ## Miscellaneous
 
 | Course        | Description           | Semester Taken  |
@@ -73,6 +81,8 @@ The following are college-level courses taken at Texas A&M University. Courses c
 | COMM 257      | Communication, Religion, and the Arts     |   Fall 2020 |
 | POLS 207      | State Government (Texas)     |   Fall 2020 |
 | ACCT 209      | Survey of Accounting Principles     |   Fall 2020 |
+
+
 
 ## Transfer Courses
 
@@ -87,6 +97,8 @@ The following are college-level courses taken at Texas A&M University. Courses c
 | HIST 106     | US History II     |   AP US History |
 | POLS 206      | American National Government     |   AP Government |
 | PSYC 107      | Intro to Psychology     |   AP Psychology |
+
+
 
 
 {% details More Course Information %}
