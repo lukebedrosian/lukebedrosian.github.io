@@ -72,3 +72,26 @@ Some of the early work I did in the lab was improving a huge program within the 
 I then had to use Delta-V to calculate thrust. To do this, I had to introduce a new input for the time of burn, which was based on mission parameters.
 
 The new rules could successfully go from delta-V to thrust, then to power, and finally to mass and cost, which could be used to determine the feasibility of electric propulsion systems for the satellite mission. This was all done in Java and Jess (Clips).
+
+## Anisomorphic Trees
+
+Sorry! I haven't yet had time to fill this out.
+
+## Hardware-In-The-Loop Satellite Simulator
+
+I worked on this project under the Texas A&M Undergraduate Summer Research Grant in 2022. You can find the paper here: [Paper](https://www.lukebedrosian.com/assets/pdf/satellite_simulator.pdf)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Poster1.jpg" title="Poster" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/seak_poster.jpg" title="Luke with Poster" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A photo of me presenting my poster.
+</div>
