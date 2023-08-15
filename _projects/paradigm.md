@@ -76,6 +76,8 @@ During all of these fall activities, RJ and I began concocting a plan to entirel
 
 Running for the presidency of our Paradigm was a decision fueled by a deep desire to challenge myself and expand my horizons. I saw this opportunity as a platform to put my leadership skills to the test, to engage in the art of effective communication and dialogue, and to refine my ability to inspire and guide a group towards a common vision. But most importantly, I felt that I was in a position to elevate our organization to new heights, fostering an environment of excellence and innovation. The pages of the Edmund Morris trilogy on Theodore Roosevelt provided me with a wellspring of inspiration, showcasing the transformative power of strong leadership and the impact it can have on an entire nation. I am currently undertaking the beginning of my presidency and am excited to see where our organization goes.
 
+> "Speak softly and carry a big stick; you will go far." - Theodore Roosevelt
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/teddy.jpg" title="Big Stick" class="img-fluid rounded z-depth-1" %}
@@ -84,5 +86,3 @@ Running for the presidency of our Paradigm was a decision fueled by a deep desir
 <div class="caption">
     Colonel Theodore Roosevelt on Horseback
 </div>
-
-> "Speak softly and carry a big stick; you will go far." - Theodore Roosevelt

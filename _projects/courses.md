@@ -6,5 +6,5 @@ img: assets/img/ags_aero.png
 importance: 2
 category: learning
 ---
-To-Do
 
+Sorry! I have not yet gotten to filling out this page. It should be done shortly!

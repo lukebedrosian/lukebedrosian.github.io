@@ -7,5 +7,4 @@ importance: 1
 category: experience
 ---
 
-To-Do
-
+Sorry! I have not yet gotten to filling out this page. It should be done shortly!

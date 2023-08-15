@@ -6,4 +6,6 @@ img: assets/img/SEAK-Lab-Mission-1-768x432.png
 importance: 2
 category: experience
 ---
-To-Do
+
+Sorry! I have not yet gotten to filling out this page. It should be done shortly!
+
