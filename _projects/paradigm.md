@@ -3,7 +3,7 @@ layout: page
 title: Paradigm
 description: A look at my experience in my men's org, Paradigm.
 img: assets/img/rnr_rj.jpg
-importance: 3
+importance: 2
 category: experience
 ---
 
