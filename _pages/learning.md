@@ -1,11 +1,11 @@
 ---
 layout: page
-title: What I'm Doing
-permalink: /projects/
-description: A collection of what I'm doing/intersted in.
+title: Learning
+permalink: /learning/
+description: A look into what I'm learning.
 nav: true
-nav_order: 1
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [learning]
 horizontal: false
 ---
 

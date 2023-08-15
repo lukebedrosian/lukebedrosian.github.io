@@ -3,8 +3,8 @@ layout: page
 title: Paradigm
 description: A look at my experience in my men's org, Paradigm.
 img: assets/img/rnr_rj.jpg
-importance: 1
-category: fun
+importance: 3
+category: experience
 ---
 
 **Paradigm: Forging Model Men of Aggieland**
