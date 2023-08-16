@@ -2,7 +2,7 @@
 layout: page
 title: Learning
 permalink: /learning/
-description: A look into what I'm learning.
+description: A look into what I'm learning both in and out of the classroom.
 nav: true
 nav_order: 2
 display_categories: [learning]

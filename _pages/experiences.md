@@ -2,7 +2,7 @@
 layout: page
 title: Experiences
 permalink: /experiences/
-description: A collection of what I'm doing/intersted in.
+description: A collection of experiences that have shaped me professionally and personally.
 nav: true
 nav_order: 1
 display_categories: [experience]
