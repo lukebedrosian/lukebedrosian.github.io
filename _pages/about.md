@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 **About Luke Bedrosian: Exploring the Cosmos Through Engineering and Creativity**
 
-Hello! I'm Luke Bedrosian, and I am thrilled to welcome you to my personal corner of the digital universe. As a Senior Aerospace Engineering student at Texas A&M University, I've embarked on a journey fueled by curiosity, innovation, and a drive to unravel the complexities of our universe.
+Hello! My name is Luke Bedrosian, and I am thrilled to welcome you to my personal corner of the digital universe. As a Senior Aerospace Engineering student at Texas A&M University, I've embarked on a journey fueled by curiosity, innovation, and a drive to unravel the complexities of our universe.
 
 **Education and Passion:**
 
@@ -33,7 +33,7 @@ I proudly identify as an eclectic Philomath, driven by an insatiable love for le
 
 **Leadership and Giving Back:**
 
-Believing in the power of leadership and community, I proudly serve as the President of Paradigm. This dynamic organization allows me to channel my passion into tangible positive impacts. Leading this service, social, and philanthropy organization is both a privilege and a challenge that pushes me to continually grow.
+Believing in the power of leadership and community, I proudly serve as the President of Paradigm. This dynamic organization allows me to channel my passion into tangible positive impacts. Leading this service, social, and philanthropy organization is both a privilege and a challenge that pushes me to continually grow. I previously served as the Philanthropy Executive, where I introduced a new event which raised over $10,000 for the Leukemia and Lymphoma Society.
 
 **Aspiring Software Developer in the Space Enterprise:**
 
@@ -82,13 +82,19 @@ Interests: Space Systems, Software Development, Systems Architecting, System of 
 {% enddetails %}
 
 {% details Fun Facts %}
+I describe myself as... an eclectic philomath
+
 Meyers-Briggs: INTJ
+
+Favorite quote: "The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively." - Bob Marley
+
+Favorite Historical Figures: Alexander Hamilton, Marcus Aurelius, Theodore Roosevelt
 
 Favorite Book: *The Great Gatsby* by F. Scott Fitzgerald
 
 Favorite Artist: Edward Hopper
 
-Favorite Muscial Artist: Bob Marley
+Music I'm Listening to Right Now: Tyler Childers, Colter Wall, Arctic Monkeys, The Grateful Dead, Kendrick Lamar, Led Zeppelin
 
 Favorite Sports Teams: Chicago Bears, Bulls, Blackhawks, Cubs
 
