@@ -5,6 +5,7 @@ description: My experience as a research assistnant in the Systems Engineering, 
 img: assets/img/SEAK-Lab-Mission-1-768x432.png
 importance: 1
 category: experience
+related_publications: seakers2022graphs
 ---
 
 As a freshman seeking practical exposure in the aerospace field, I received advice from a professor about the benefits of pursuing an undergraduate [research](https://scholar.google.com/citations?user=NCYtE-8AAAAJ&hl=en&oi=ao) role. Until college, I hadn't really considered this option, but I decided to explore different aerospace professors and their areas of work. Given my strong interest in space-related activities and my dream of becoming an astronaut, I came across Dr. Daniel Selva's [Systems Engineering, Architecture and Knowledge Lab](https://www.selva-research.com/). The area of satellite technology intrigued me, leading me to join this research group.
@@ -75,7 +76,7 @@ The new rules could successfully go from delta-V to thrust, then to power, and f
 
 ## Anisomorphic Trees
 
-Sorry! I haven't yet had time to fill this out.
+For the anisomorphic trees and decision graphs project, I assisted [Dr. Ada-Rhodes Short](https://www.selva-research.com/people/ada-rhodes/) in writing the analysis and conclusion sections of the paper, which was presented at AIAA SCITECH 2022.
 
 ## Hardware-In-The-Loop Satellite Simulator
 

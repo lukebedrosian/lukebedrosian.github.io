@@ -2,7 +2,7 @@
 layout: page
 title: Internship - The Aerospace Corporation
 description: Inside my time with The Aerospace Corporation
-img: assets/img/aerospace2.jpg
+img: assets/img/aerospace.jpg
 importance: 2
 category: experience
 ---
