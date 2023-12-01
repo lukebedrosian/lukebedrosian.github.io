@@ -23,7 +23,7 @@ Hello! My name is Luke Bedrosian, and I am thrilled to welcome you to my persona
 
 **Education and Passion:**
 
-Currently, I'm pursuing my degree in Aerospace Engineering with a keen focus on systems engineering principles. This passion drives me to find ingenious solutions during the early stages of space mission design. The challenge of crafting innovative solutions to complex problems is what fuels my academic pursuits.
+Currently, I'm pursuing my degree in Aerospace Engineering with a keen focus on space systems engineering principles. This passion drives me to find ingenious solutions during the early stages of space mission design. The challenge of crafting innovative solutions to complex problems is what fuels my academic pursuits.
 
 With minors in Computer Science and Mathematics, I'm constantly expanding my toolkit to enhance my problem-solving capabilities. This multidisciplinary approach not only broadens my horizons but also equips me with a versatile skill set to address challenges from different angles.
 
@@ -35,13 +35,9 @@ I proudly identify as an eclectic Philomath, driven by an insatiable love for le
 
 Believing in the power of leadership and community, I proudly serve as the President of Paradigm. This dynamic organization allows me to channel my passion into tangible positive impacts. Leading this service, social, and philanthropy organization is both a privilege and a challenge that pushes me to continually grow. I previously served as the Philanthropy Executive, where I introduced a new event which raised over $10,000 for the Leukemia and Lymphoma Society.
 
-**Aspiring Software Developer in the Space Enterprise:**
-
-Looking ahead, I'm determined to merge my love for space with my passion for technology. My dream is to contribute as a software developer in the space enterprise, where I can bridge the gap between the cosmos and cutting-edge software solutions.
-
 **Balancing Act:**
 
-When I'm not delving into the intricacies of engineering, you'll find me unwinding in a variety of ways. Whether it's hitting the gym, strumming my guitar, exploring the world around me, or savoring quality time with friends, I cherish the richness of life's experiences.
+When I'm not delving into the intricacies of engineering, you'll find me unwinding in a variety of ways. Whether it's hitting the gym, reading philosophy, exploring the world around me, or savoring quality time with friends, I cherish the richness of life's experiences. 
 
 **Professional Journey:**
 
@@ -82,19 +78,19 @@ Interests: Space Systems, Software Development, Systems Architecting, System of 
 {% enddetails %}
 
 {% details Fun Facts %}
-I describe myself as... an eclectic philomath
+I describe myself as: an eclectic philomath
 
 Meyers-Briggs: INTJ
 
-Favorite quote: "The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively." - Bob Marley
+Favorite quote: "Speak softly and carry a big stick; you will go far." - Theodore Roosevelt
 
-Favorite Historical Figures: Alexander Hamilton, Marcus Aurelius, Theodore Roosevelt
+Favorite Historical Figures: Epictetus, Alexander Hamilton, Marcus Aurelius, Theodore Roosevelt
 
-Favorite Book: *The Great Gatsby* by F. Scott Fitzgerald
+Favorite Book: *The Great Gatsby* by F. Scott Fitzgerald and *Discourses* by Epictetus
 
-Favorite Artist: Edward Hopper
+Favorite Artist: Edward Hopper (he also painted my favorite painting, *Nighthawks*)
 
-Music I'm Listening to Right Now: Tyler Childers, Colter Wall, Arctic Monkeys, The Grateful Dead, Kendrick Lamar, Led Zeppelin
+Music I'm Listening to Right Now: Tyler Childers, Colter Wall, The Doors, Bob Marley
 
 Favorite Sports Teams: Chicago Bears, Bulls, Blackhawks, Cubs
 
