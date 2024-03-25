@@ -90,7 +90,7 @@ Favorite Book: *The Great Gatsby* by F. Scott Fitzgerald and *Discourses* by Epi
 
 Favorite Artist: Edward Hopper (he also painted my favorite painting, *Nighthawks*)
 
-Music I'm Listening to Right Now: Tyler Childers, Colter Wall, The Doors, Bob Marley
+Favorite Music Artist: Zach Top
 
 Favorite Sports Teams: Chicago Bears, Bulls, Blackhawks, Cubs
 
