@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 **About Luke Bedrosian: Exploring the Cosmos Through Engineering and Creativity**
 
-Greetings! I'm Luke Bedrosian, a passionate engineer and a recent graduate of Texas A&M University with a BS in Aerospace Engineering. Currently, I am employed as an Associate Member of Technical Staff in the System of Systems Engineering Office at The Aerospace Corporation, where my work primarily involves software development in C++ using Qt and implementing systems modeling tools.
+Greetings! I'm Luke Bedrosian, a passionate engineer and a recent graduate of Texas A&M University with a BS in Aerospace Engineering. Currently, I am employed as an Associate Member of Technical Staff in the System of Systems Engineering Office at The Aerospace Corporation, where my work primarily involves software development in C++ using Qt for a space architecture modeling and visualization software tool.
 
 **Professional Journey:**
 
