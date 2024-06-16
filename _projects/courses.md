@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Courses Taken
-description: An overview of the courses I've taken at Texas A&M University
+title: Undergraduate Courses Taken
+description: An overview of the courses I've taken at Texas A&M University.
 img: assets/img/ags_aero.png
 importance: 2
 category: learning
 ---
 
-The following are college-level courses taken at Texas A&M University. Courses currently enrolled in are *italicized*.
+The following are college-level courses taken at Texas A&M University.
 
 ## Aerospace Engineering
 
@@ -35,7 +35,7 @@ The following are college-level courses taken at Texas A&M University. Courses c
 | AERO 423 | Honors Orbital Mechanics     |    Fall 2023 |
 | AERO 452 | Viscous Flows and Heat Transfer | Spring 2024 |
 | AERO 614 | Human Performance in Aerospace Environments (Graduate)   |    Fall 2023 |
-| AERO 689 | Applied Machine Learning for Aerospace Systems | Spring 2024
+| AERO 689 | Applied Machine Learning for Aerospace Systems (Graduate) | Spring 2024
 
 
 
