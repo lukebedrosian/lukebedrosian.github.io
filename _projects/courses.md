@@ -13,11 +13,6 @@ The following are college-level courses taken at Texas A&M University. Courses c
 
 | Course        | Description           | Semester Taken  |
 | ------------- |-------------| -----|
-| *AERO 401*     | Aerospace Design Principles |   Fall 2023 |
-| *AERO 413*      | Aerospace Materials Science     |   Fall 2023 |
-| *AERO 419* | Chemical Rocket Propulsion      |    Fall 2023 |
-| *AERO 423* | Honors Orbital Mechanics     |    Fall 2023 |
-| *AERO 614* | Human Performance in Aerospace Environments (Graduate)   |    Fall 2023 |
 | AERO 201 | Introduction to Flight      |    Fall 2021 |
 | AERO 211 | Aerospace Engineering Mechancics      |    Fall 2021 |
 | AERO 212 | Introduction to Aerothermodynamics     |    Fall 2021 |
@@ -32,6 +27,15 @@ The following are college-level courses taken at Texas A&M University. Courses c
 | AERO 310 |   Aerospace Dynamics   |    Fall 2022 |
 | AERO 321 | Dynamics of Aerospace Vehicles      |    Spring 2023 |
 | AERO 351 | Aerothermodynamics and Propulsion      |    Spring 2023 |
+| AERO 401 | Aerospace Design Principles |   Fall 2023 |
+| AERO 402 | Aerospace Senior Design | Spring 2024 |
+| AERO 413      | Aerospace Materials Science     |   Fall 2023 |
+| AERO 419 | Chemical Rocket Propulsion      |    Fall 2023 |
+| AERO 422 | Active Controls for Aerospace Vehicles | Spring 2024 |
+| AERO 423 | Honors Orbital Mechanics     |    Fall 2023 |
+| AERO 452 | Viscous Flows and Heat Transfer | Spring 2024 |
+| AERO 614 | Human Performance in Aerospace Environments (Graduate)   |    Fall 2023 |
+| AERO 689 | Applied Machine Learning for Aerospace Systems | Spring 2024
 
 
 
@@ -53,6 +57,7 @@ The following are college-level courses taken at Texas A&M University. Courses c
 | ------------- |-------------| -----|
 | MATH 308     | Differential Equations |   Fall 2020 |
 | MATH 311      | Topics in Applied Mathematics (Linear Algebra)  |   Spring 2021 |
+| MATH 401 | Advanced Engineering Mathematics (PDEs and Perturbation Theory) | Spring 2024 |
 
 
 
