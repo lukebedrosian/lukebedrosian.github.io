@@ -48,7 +48,7 @@ Hometown: Round Lake, Illinois
 
 Undergraduate Education: BS Aerospace Engineering, Texas A&M University
 
-Graduate Education: MS Computer Science, University of Texas at Austin (in progress)
+Graduate Education: MS Computer Science, The Georgia Institute of Technology (in progress)
 
 {% enddetails %}
 
