@@ -17,24 +17,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**About Luke Bedrosian: Exploring the Cosmos Through Engineering and Creativity**
+**About Luke Bedrosian**
 
-Greetings! I'm Luke Bedrosian, a passionate engineer and a recent graduate of Texas A&M University with a BS in Aerospace Engineering. Currently, I am employed as an Associate Member of Technical Staff in the System of Systems Engineering Office at The Aerospace Corporation, where my work primarily involves software development in C++ using Qt for a space architecture modeling and visualization software tool.
+Greetings! I'm Luke Bedrosian, a passionate engineer and a recent graduate of Texas A&M University with a BS in Aerospace Engineering. Currently, I am employed as an Associate Member of Technical Staff in the System of Systems Engineering Department at The Aerospace Corporation.
 
 **Professional Journey:**
 
-In my role, I focus on developing software solutions to complex problems, utilizing C++ and Qt to create systems modeling tools. This experience has deepened my understanding of aerospace systems engineering and honed my software development skills.
-
-**A Curious Mind and Varied Interests:**
-
-I proudly identify as an eclectic Philomath, driven by an insatiable love for learning. My interests span a diverse spectrum - from the vast wonders of space to the exhilaration of weightlifting and the tranquility of hiking. My inquisitiveness extends to the realms of philosophy, where I contemplate life's profound questions. Since the beginning of my college journey, meditation has been my steadfast companion, guiding me through the ups and downs. To give you a glimpse into my personality, my Meyers-Briggs type is INTJ - a fitting reflection of my strategic, analytical, and imaginative nature.
+In my role, I focus on developing software solutions to complex problems. I support varying projects within The Aerospace Corporation, primarily of which is as a software developer for The Portfolio Decision Support Tool (PDST), a space architecture modeling and visualization software tool (C++/Qt). I provide additional support to other projects including integrating software tools into data engineering pipelines (Python, Linux, C++, Qt, Apache Airflow), and building user interfaces for applications (C#, .NET, Matlab, Python).
 
 **Academic Pursuits:**
 
-While my undergraduate studies have concluded, my thirst for knowledge remains unquenched. I am embarking on a new academic journey, pursuing a Master of Science in Computer Science at The University of Texas at Austin. This endeavor will expand my skill set and enhance my ability to tackle complex challenges in the realm of aerospace engineering and software development.
+While my undergraduate studies have concluded, my thirst for knowledge remains unquenched. I am embarking on a new academic journey, pursuing a Master of Science in Computer Science at The Georgia Institute of Technology (Georgia Tech). This endeavor will expand my skill set and enhance my ability to tackle complex challenges in the realm of aerospace engineering and software development.
 
-
-Thank you for visiting my space on the web. I'm excited to continue this journey of discovery, growth, and innovation, and I invite you to join me every step of the way.
 
 
 ***
