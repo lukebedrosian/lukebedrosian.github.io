@@ -3,7 +3,7 @@ layout: page
 title: Learning - Summer 2023
 description: A dive into what I'm learning, reading and exploring in my free time.
 img: assets/img/books.jpg
-importance: 1
+importance: 3
 category: learning
 ---
 
