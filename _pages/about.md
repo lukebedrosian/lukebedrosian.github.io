@@ -23,11 +23,11 @@ Greetings! I'm Luke Bedrosian, a passionate engineer and a recent graduate of Te
 
 **Professional Journey:**
 
-In my role, I focus on developing software solutions to complex problems. I support varying projects within The Aerospace Corporation, primarily of which is as a software developer for The Portfolio Decision Support Tool (PDST), a space architecture modeling and visualization software tool (C++/Qt). I provide additional support to other projects including integrating software tools into data engineering pipelines (Python, Linux, C++, Qt, Apache Airflow), and building user interfaces for applications (C#, .NET, Matlab, Python).
+In my role, I focus on developing software solutions to complex problems. I support varying projects within The Aerospace Corporation, primarily of which is as a software developer for The Portfolio Decision Support Tool (PDST), a space architecture modeling and visualization software tool (C++/Qt). I provide additional support to other projects including integrating software tools into data engineering pipelines (Python, Linux, C++, Qt).
 
 **Academic Pursuits:**
 
-While my undergraduate studies have concluded, my thirst for knowledge remains unquenched. I am embarking on a new academic journey, pursuing a Master of Science in Computer Science at The Georgia Institute of Technology (Georgia Tech). This endeavor will expand my skill set and enhance my ability to tackle complex challenges in the realm of aerospace engineering and software development.
+While my undergraduate studies have concluded, my thirst for knowledge remains unquenched. I am embarking on a new academic journey, pursuing a Master of Science in Computer Science at The Georgia Institute of Technology. This endeavor will expand my skill set and enhance my ability to tackle complex challenges in the realm of aerospace engineering and software development.
 
 
 
@@ -48,14 +48,14 @@ Hometown: Round Lake, Illinois
 
 Undergraduate Education: BS Aerospace Engineering, Texas A&M University
 
-Graduate Education: MS Computer Science, The Georgia Institute of Technology (in progress)
+Graduate Education: MS Computer Science, Georgia Institute of Technology (in progress)
 
 {% enddetails %}
 
 {% details Skills and Interests %}
 Skills: Python, C++, Java, Jess, Wolfram Mathematica, Autodesk Inventor, Solidworks, NX, GitHub, MOEA, Haskell, SysML, Qt, Cameo Systems Modeler
 
-Interests: Space Systems, Software Development, Systems Architecting, System of Systems, AI/ML, Optimization, Modeling
+Interests: Space Systems, Software Development, Systems Architecting, HCI, AI/ML, Optimization, Modeling
 {% enddetails %}
 
 {% details Fun Facts %}
