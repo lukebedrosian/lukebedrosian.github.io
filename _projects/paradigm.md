@@ -78,7 +78,7 @@ Running for the presidency of Paradigm was a decision fueled by a deep desire to
 
 > "Speak softly and carry a big stick; you will go far." - Theodore Roosevelt
 
-Serving as President taught me far more about leadership than any of my previous experiences.
+Serving as President taught me far more about leadership than any other experience in my life. As the chief leader of over 80 men, I managed the planning and execution of large events and all orginizational functions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -1,13 +1,22 @@
 ---
 layout: page
 title: Undergraduate Courses Taken
-description: An overview of the courses I've taken at Texas A&M University.
+description: An overview of the courses I've taken during my graduate and undergraduate curriculum.
 img: assets/img/ags_aero.png
 importance: 2
 category: learning
 ---
 
-The following are college-level courses taken at Texas A&M University.
+# Graduate Courses - Georgia Institute of Technology
+
+| Course        | Description           | Semester Taken  |
+| ------------- |-------------| -----|
+| CS 6200 | Graduate Introduction to Operating Systems     |    Fall 2024 |
+| CS 6750 | Human Computer Interaction     |    Spring 2025 |
+| CS 6310 | Software Architecture and Design     |    Spring 2025 |
+
+
+# Undergraduate Courses - Texas A&M University
 
 ## Aerospace Engineering
 
