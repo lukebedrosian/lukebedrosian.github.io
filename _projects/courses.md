@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Undergraduate Courses Taken
+title: Courses Taken
 description: An overview of the courses I've taken during my graduate and undergraduate curriculum.
 img: assets/img/ags_aero.png
 importance: 2
